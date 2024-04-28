@@ -1,20 +1,21 @@
 {
-    "title": "Name of the extension",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample extension.",
+    "title": "new-extension",
+    "name": "gh-luckyalani1090-new-extension",
+    "description": "A simple phcode.dev extension/theme.",
     "version": "0.0.1",
-    "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
-    "homepage": "<project web page url or this github repo url if no website available>",
+    "license": "unknown",
+    "author": "luckyalani1090",
+    "homepage": "https://github.com/luckyalani1090/new-extension",
     "engines": {
         "brackets": ">=2.0.0"
     },
     "categories": "demo",
     "keywords": [
-        "phcode", "extension", "demo"
+        "phcode",
+        "extension",
+        "demo"
     ],
     "files": [
         "main.js"
     ]
 }
-
